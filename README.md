@@ -9,4 +9,4 @@ The project consists in reducing the number of components of the dataset of brea
 
 For further details, please read the following notebook that I've created:
 
-[1] Demonstration | https://github.com/alexamorim1998/WebVsApp_Predictive_Model/blob/master/WebVsAppNotebook.ipynb
+[1] Demonstration | https://github.com/alexamorim1998/BreastCancer_Predictive_Model/blob/master/BreastCancerNotebook.ipynb
