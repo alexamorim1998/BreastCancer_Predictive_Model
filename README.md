@@ -1,5 +1,5 @@
 **Purpose**
-The project consists in reducing the number of components of the dataset of breast cancer, threw a predictive model based on Principal Component Analysis
+The project consists in reducing the number of trivial components of the dataset of breast cancer, threw a predictive model based on Principal Component Analysis
 
 **Technologies:**
 
